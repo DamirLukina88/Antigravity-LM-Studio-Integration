@@ -1,0 +1,8 @@
+{
+  "name": "lm-studio-plugin",
+  "description": "Integration with local LM Studio models via the OpenAI-compatible API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "User"
+  }
+}
