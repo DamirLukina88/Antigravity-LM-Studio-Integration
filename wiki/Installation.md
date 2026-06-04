@@ -32,8 +32,8 @@ To install the plugin, simply copy the `lm-studio-plugin` directory from this re
 cp -r lm-studio-plugin ~/.gemini/config/plugins/
 ```
 
-### Agent Installation
-If you prefer, you can ask your agent to do it for you, provided it has unsandboxed permissions:
-> *"Please copy the `lm-studio-plugin` folder from this project into your `~/.gemini/config/plugins/` directory."*
+### Agent Installation (Direct from GitHub URL)
+You don't even need to clone this repo! Just ask your Antigravity agent:
+> *"Please fetch the LM Studio integration from `https://github.com/DamirLukina88/Antigravity-LM-Studio-Integration.git` and install the `lm-studio-plugin` folder into your `~/.gemini/config/plugins/` directory."*
 
 Once the folder is copied, Antigravity will automatically detect and load the new skills. You can verify this by asking the agent to list its available skills.

@@ -45,9 +45,9 @@ Copy the `lm-studio-plugin` folder from this repository into your Antigravity pl
 cp -r lm-studio-plugin ~/.gemini/config/plugins/
 ```
 
-**Agent Installation:**
-Alternatively, ask your Antigravity agent:
-> *"Please copy the `lm-studio-plugin` folder from this project into your `~/.gemini/config/plugins/` directory using unsandboxed bash."*
+**Agent Installation (Direct from GitHub URL):**
+You don't even need to clone this repo! Just ask your Antigravity agent:
+> *"Please fetch the LM Studio integration from `https://github.com/DamirLukina88/Antigravity-LM-Studio-Integration.git` and install the `lm-studio-plugin` folder into your `~/.gemini/config/plugins/` directory."*
 
 ---
 
