@@ -53,4 +53,4 @@ You don't even need to clone this repo! Just ask your Antigravity agent:
 
 ## 4. Documentation & Usage
 
-For full details on how to utilize the specialized skills and the token optimization strategies, please see the [Wiki](wiki/Home.md).
+For full details on how to utilize the specialized skills and the token optimization strategies, please see the [Wiki](wiki/LM-Studio-Integration-Wiki.md).
